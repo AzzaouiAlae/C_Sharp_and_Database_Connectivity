@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\bin\Debug\19-DataTable5.exe.config
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\bin\Debug\19-DataTable5.exe
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\bin\Debug\19-DataTable5.pdb
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\obj\Debug\19-DataTable5.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\obj\Debug\19-DataTable5.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\obj\Debug\19-DataTable5.exe
+D:\source\18 - C# & Database Connectivity\19-DataTable5\19-DataTable5\obj\Debug\19-DataTable5.pdb

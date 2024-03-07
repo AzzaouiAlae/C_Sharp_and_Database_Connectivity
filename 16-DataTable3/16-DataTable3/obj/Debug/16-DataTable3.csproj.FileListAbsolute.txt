@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\bin\Debug\16-DataTable3.exe.config
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\bin\Debug\16-DataTable3.exe
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\bin\Debug\16-DataTable3.pdb
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\obj\Debug\16-DataTable3.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\obj\Debug\16-DataTable3.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\obj\Debug\16-DataTable3.exe
+D:\source\18 - C# & Database Connectivity\16-DataTable3\16-DataTable3\obj\Debug\16-DataTable3.pdb

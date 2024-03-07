@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - Parameterized Query With Like", "3 - Parameterized Query With Like\3 - Parameterized Query With Like.csproj", "{4EF785D2-B270-444D-838B-F6453E49E626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF785D2-B270-444D-838B-F6453E49E626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF785D2-B270-444D-838B-F6453E49E626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF785D2-B270-444D-838B-F6453E49E626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF785D2-B270-444D-838B-F6453E49E626}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE8EFC1-F06D-4CFC-8E28-058241F0C256}
+	EndGlobalSection
+EndGlobal

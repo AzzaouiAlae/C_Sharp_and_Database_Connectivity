@@ -1,0 +1,6 @@
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_DataLayer\bin\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_DataLayer\bin\Debug\Contacts_DataLayer.pdb
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_DataLayer\obj\Debug\Contacts_DataLayer.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_DataLayer\obj\Debug\Contacts_DataLayer.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_DataLayer\obj\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_DataLayer\obj\Debug\Contacts_DataLayer.pdb

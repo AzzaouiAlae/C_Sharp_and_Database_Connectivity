@@ -1,0 +1,9 @@
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\bin\Debug\Cantacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\bin\Debug\Cantacts_BusinessLayer.pdb
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\bin\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\bin\Debug\Contacts_DataLayer.pdb
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\obj\Debug\Cantacts_BusinessLayer.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\obj\Debug\Cantacts_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\obj\Debug\Cantacts_BusinessLayer.csproj.CopyComplete
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\obj\Debug\Cantacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\Cantacts_BusinessLayer\obj\Debug\Cantacts_BusinessLayer.pdb

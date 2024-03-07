@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\bin\Debug\16-DataTable2.exe.config
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\bin\Debug\16-DataTable2.exe
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\bin\Debug\16-DataTable2.pdb
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\obj\Debug\16-DataTable2.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\obj\Debug\16-DataTable2.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\obj\Debug\16-DataTable2.exe
+D:\source\18 - C# & Database Connectivity\16-DataTable2\16-DataTable2\obj\Debug\16-DataTable2.pdb

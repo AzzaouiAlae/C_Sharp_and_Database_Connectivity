@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\bin\Debug\4 - Retrieve a Single Value.exe.config
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\bin\Debug\4 - Retrieve a Single Value.exe
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\bin\Debug\4 - Retrieve a Single Value.pdb
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\obj\Debug\4 - Retrieve a Single Value.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\obj\Debug\4 - Retrieve a Single Value.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\obj\Debug\4 - Retrieve a Single Value.exe
+D:\source\18 - C# & Database Connectivity\4 - Retrieve a Single Value\4 - Retrieve a Single Value\obj\Debug\4 - Retrieve a Single Value.pdb

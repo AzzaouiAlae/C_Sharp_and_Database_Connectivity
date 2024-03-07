@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\bin\Debug\6 - Insert Add Data.exe.config
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\bin\Debug\6 - Insert Add Data.exe
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\bin\Debug\6 - Insert Add Data.pdb
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\obj\Debug\6 - Insert Add Data.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\obj\Debug\6 - Insert Add Data.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\obj\Debug\6 - Insert Add Data.exe
+D:\source\18 - C# & Database Connectivity\6 - Insert Add Data\6 - Insert Add Data\obj\Debug\6 - Insert Add Data.pdb

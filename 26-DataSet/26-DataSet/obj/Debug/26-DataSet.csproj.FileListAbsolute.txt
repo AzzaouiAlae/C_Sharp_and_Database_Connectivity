@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\bin\Debug\26-DataSet.exe.config
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\bin\Debug\26-DataSet.exe
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\bin\Debug\26-DataSet.pdb
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\obj\Debug\26-DataSet.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\obj\Debug\26-DataSet.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\obj\Debug\26-DataSet.exe
+D:\source\18 - C# & Database Connectivity\26-DataSet\26-DataSet\obj\Debug\26-DataSet.pdb

@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\bin\Debug\20-DataTable.exe.config
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\bin\Debug\20-DataTable.exe
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\bin\Debug\20-DataTable.pdb
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\obj\Debug\20-DataTable.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\obj\Debug\20-DataTable.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\obj\Debug\20-DataTable.exe
+D:\source\18 - C# & Database Connectivity\20-DataTable\20-DataTable\obj\Debug\20-DataTable.pdb

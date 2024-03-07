@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\bin\Debug\5 - Find Single Contact.exe.config
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\bin\Debug\5 - Find Single Contact.exe
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\bin\Debug\5 - Find Single Contact.pdb
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\obj\Debug\5 - Find Single Contact.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\obj\Debug\5 - Find Single Contact.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\obj\Debug\5 - Find Single Contact.exe
+D:\source\18 - C# & Database Connectivity\5 - Find Single Contact\5 - Find Single Contact\obj\Debug\5 - Find Single Contact.pdb

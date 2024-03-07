@@ -1,0 +1,9 @@
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\bin\Debug\Contacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\bin\Debug\Contacts_BusinessLayer.pdb
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\bin\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\bin\Debug\Contacts_DataLayer.pdb
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.csproj.CopyComplete
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\11 - ContactsSolution\Contacts_BusinessLayer\obj\Debug\Contacts_BusinessLayer.pdb

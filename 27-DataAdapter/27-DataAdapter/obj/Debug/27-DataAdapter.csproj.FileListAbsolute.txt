@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\bin\Debug\27-DataAdapter.exe.config
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\bin\Debug\27-DataAdapter.exe
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\bin\Debug\27-DataAdapter.pdb
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\obj\Debug\27-DataAdapter.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\obj\Debug\27-DataAdapter.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\obj\Debug\27-DataAdapter.exe
+D:\source\18 - C# & Database Connectivity\27-DataAdapter\27-DataAdapter\obj\Debug\27-DataAdapter.pdb

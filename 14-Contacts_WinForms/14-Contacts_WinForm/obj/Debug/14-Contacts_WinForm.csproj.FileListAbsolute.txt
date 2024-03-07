@@ -1,0 +1,16 @@
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\14-Contacts_WinForm.exe.config
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\14-Contacts_WinForm.exe
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\14-Contacts_WinForm.pdb
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\Contacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\Contacts_BusinessLayer.pdb
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\bin\Debug\Contacts_DataLayer.pdb
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\14-Contacts_WinForm.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\_14_Contacts_WinForm.ListContact.resources
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\_14_Contacts_WinForm.Properties.Resources.resources
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\14-Contacts_WinForm.csproj.GenerateResource.cache
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\14-Contacts_WinForm.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\14-Contacts_WinForm.csproj.CopyComplete
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\14-Contacts_WinForm.exe
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\14-Contacts_WinForm.pdb
+D:\source\18 - C# & Database Connectivity\14-Contacts_WinForms\14-Contacts_WinForm\obj\Debug\_14_Contacts_WinForm.AddEditContact.resources

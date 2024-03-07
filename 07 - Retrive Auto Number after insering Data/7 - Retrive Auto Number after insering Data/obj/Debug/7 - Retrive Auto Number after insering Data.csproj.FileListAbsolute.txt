@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\bin\Debug\7 - Retrive Auto Number after insering Data.exe.config
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\bin\Debug\7 - Retrive Auto Number after insering Data.exe
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\bin\Debug\7 - Retrive Auto Number after insering Data.pdb
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\obj\Debug\7 - Retrive Auto Number after insering Data.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\obj\Debug\7 - Retrive Auto Number after insering Data.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\obj\Debug\7 - Retrive Auto Number after insering Data.exe
+D:\source\18 - C# & Database Connectivity\7 - Retrive Auto Number after insering Data\7 - Retrive Auto Number after insering Data\obj\Debug\7 - Retrive Auto Number after insering Data.pdb

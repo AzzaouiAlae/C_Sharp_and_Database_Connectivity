@@ -1,0 +1,12 @@
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\12 - AddNewContact.exe.config
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\12 - AddNewContact.exe
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\12 - AddNewContact.pdb
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\Cantacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\Cantacts_BusinessLayer.pdb
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\bin\Debug\Contacts_DataLayer.pdb
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\obj\Debug\Contacts_PresentationLayer.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\obj\Debug\Contacts_PresentationLayer.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\obj\Debug\Contacts_PresentationLayer.csproj.CopyComplete
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\obj\Debug\12 - AddNewContact.exe
+D:\source\18 - C# & Database Connectivity\12 - AddNewContact\12 - AddNewContact\obj\Debug\12 - AddNewContact.pdb

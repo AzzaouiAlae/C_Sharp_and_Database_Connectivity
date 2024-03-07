@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\bin\Debug\25-DataView.exe.config
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\bin\Debug\25-DataView.exe
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\bin\Debug\25-DataView.pdb
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\obj\Debug\25-DataView.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\obj\Debug\25-DataView.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\obj\Debug\25-DataView.exe
+D:\source\18 - C# & Database Connectivity\25-DataView\25-DataView\obj\Debug\25-DataView.pdb

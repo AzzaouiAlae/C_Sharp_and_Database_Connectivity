@@ -1,0 +1,12 @@
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\13-ContactsConsoleApp.exe.config
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\13-ContactsConsoleApp.exe
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\13-ContactsConsoleApp.pdb
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\Contacts_BusinessLayer.dll
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\Contacts_DataLayer.dll
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\Contacts_BusinessLayer.pdb
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\bin\Debug\Contacts_DataLayer.pdb
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\obj\Debug\Contacts_PresentationLayer.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\obj\Debug\Contacts_PresentationLayer.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\obj\Debug\Contacts_PresentationLayer.csproj.CopyComplete
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\obj\Debug\13-ContactsConsoleApp.exe
+D:\source\18 - C# & Database Connectivity\13-ContactsConsoleApp\13-ContactsConsoleApp\obj\Debug\13-ContactsConsoleApp.pdb

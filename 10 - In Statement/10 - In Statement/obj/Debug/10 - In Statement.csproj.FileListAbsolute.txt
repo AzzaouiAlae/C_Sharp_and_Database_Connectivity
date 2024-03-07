@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\bin\Debug\10 - In Statement.exe.config
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\bin\Debug\10 - In Statement.exe
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\bin\Debug\10 - In Statement.pdb
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\obj\Debug\10 - In Statement.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\obj\Debug\10 - In Statement.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\obj\Debug\10 - In Statement.exe
+D:\source\18 - C# & Database Connectivity\10 - In Statement\10 - In Statement\obj\Debug\10 - In Statement.pdb

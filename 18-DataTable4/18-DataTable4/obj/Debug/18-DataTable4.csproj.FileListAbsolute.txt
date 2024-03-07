@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\bin\Debug\18-DataTable4.exe.config
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\bin\Debug\18-DataTable4.exe
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\bin\Debug\18-DataTable4.pdb
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\obj\Debug\18-DataTable4.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\obj\Debug\18-DataTable4.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\obj\Debug\18-DataTable4.exe
+D:\source\18 - C# & Database Connectivity\18-DataTable4\18-DataTable4\obj\Debug\18-DataTable4.pdb

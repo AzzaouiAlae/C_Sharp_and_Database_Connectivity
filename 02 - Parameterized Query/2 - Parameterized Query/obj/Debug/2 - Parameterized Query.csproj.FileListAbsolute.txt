@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\bin\Debug\2 - Parameterized Query.exe.config
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\bin\Debug\2 - Parameterized Query.exe
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\bin\Debug\2 - Parameterized Query.pdb
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\obj\Debug\2 - Parameterized Query.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\obj\Debug\2 - Parameterized Query.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\obj\Debug\2 - Parameterized Query.exe
+D:\source\18 - C# & Database Connectivity\2 - Parameterized Query\2 - Parameterized Query\obj\Debug\2 - Parameterized Query.pdb
