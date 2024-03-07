@@ -1,0 +1,7 @@
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\bin\Debug\01 - ADO.NET Get ALL Contacts.exe.config
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\bin\Debug\01 - ADO.NET Get ALL Contacts.exe
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\bin\Debug\01 - ADO.NET Get ALL Contacts.pdb
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\obj\Debug\01 - ADO.NET Get ALL Contacts.csproj.AssemblyReference.cache
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\obj\Debug\01 - ADO.NET Get ALL Contacts.csproj.CoreCompileInputs.cache
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\obj\Debug\01 - ADO.NET Get ALL Contacts.exe
+D:\source\18 - C# & Database Connectivity\01 - ADO.NET Get ALL Contacts\01 - ADO.NET Get ALL Contacts\obj\Debug\01 - ADO.NET Get ALL Contacts.pdb
